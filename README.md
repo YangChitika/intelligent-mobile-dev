@@ -1,26 +1,13 @@
 
-# NidAride Mobile App
+# Workout Rest Mobile App
 ## Introduction
-This is a mobile app designed to serve travelers who need a quick ride between the two main cities of Lilongwe and Blantyre in Malawi. Travelers would check and book which ride is available from their city, who the driver or car owner is vehicle papers validity and time of departure.
+This is a mobile app designed to serve sports men and women, most especially those that workout in the gym. The sole purpose for this application is do a count down during resting specifically, so that people can know the right time to resume to the next work out. Not to over rest and also to under rest.
 
 ## Motivation
-There are many times when people wouldn't want to use a big public bus or even a coach. Among other reasons being coaches being costly, or maybe after booking the coach, they still missed the departure time and still need to travel the same day same time. Also sometimes, one would prefer a quick ride because it doesn't really take much time to fill up so that they start a trip. Still more, one would prefer a quick ride because they move faster than big buses.
-
-Sometimes one would just want to send a parcel to the other city, so they would ask within their small circle who is traveling which day between the cities so that they pass their parcels to them.
-
-## Challenge
-Now, the problem comes in when someone is not sure if when they get to the picking up points, whether they will get the ride in good time, or if they will actually get the ride in good time. In addition, when they get the ride, they are not in a position to know who the owner or the driver is, also if the vehicle is fit for the road or has valid papers to be on the road. On the other side also, the driver doesn't really know who they have picked, whether they are good people or criminals.
+Each time I am in the gym working out, time for resting in between the sets is always compromised. This results in also compromising the exercise itself. Instead of concentrating much on the workout so that we get maximum results out of it, we end up doing too much rest which defeats the whole purpose of the workout.
 
 ## How It Would Work
-Drivers or car owners would register or put up information that they are traveling to one of the cities. Also, they would indicate how many people they would be able to take with them and what parcels they would be able to carry in their car. On top of that, they would be required to put in vehicle validation papers. This would help travelers know who they are traveling with, and if the car has valid papers.
+When users opens up the app, they would see a few buttons which will be start and stop. Also, there will be an option to set time one would want to rest. Knowing pretty well that one can only rest within one minute, the app will only accept rest within that single minute.
 
-On the other hand, travelers will also be required to register with their information from their national ID. If they are traveling with other people then information for everyone should also be provided. This would help the driver know who they are traveling with.
+To start, the user can simply tap in the middle of the app or the actual start button which will be placed at a corner. But before that, the user would have already set the time for resting. Now, the app will start the count down according to the set time, then the user resumes to the next set. Better still, the user can decide to stop the count down by tapping on the stop button, then move to the next set.
 
-Driver can accept or decline the traveler or the parcel.
-
-## Benefits
-Travelers can book and check for the ride availability even before they arrive at the picking point. This can be done at the comfort of their home. The app can send a notification to travelers when the driver accepts their request.
-
-A notification would also be sent to the parcel sender when the consignee receives the parcel.
-
-Travelers can opt to notify their next of keen or their relatives of the information of how they are traveling. In the same way, a notification will be sent to them.
